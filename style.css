@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    background-color: #DFC5C5;
+    color: black;
+}
+
+.header{
+    text-align: center;
+}
+
+.header a{
+    outline: none;
+    text-decoration: none;
+    background-color: #F59F9F;
+    margin: 15px;
+    padding: 5px;
+}
+
+.content{
+    display: flex;
+}
+
+.content-img{
+    width: 150px;
+    height: 150px;
+}
+
+.main{
+    background-color: antiquewhite;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
