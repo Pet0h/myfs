@@ -1,27 +1,20 @@
-.content{
-    background-color: rgb(158, 159, 160);
-    max-width: 300px;
+body{
+    background-color: rgb(114, 177, 103);
+}
+
+.head-link{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
     text-align: center;
-    padding: 15px;
-    border-radius: 5px;
-}
-.content > img{
-    border-radius: 10px;
 }
 
-.content p{
-    line-height: 20px;
+.name{
+    text-shadow: 5px;
+    text-align: center;
 }
 
-.button{
-    background-color: rgb(69, 151, 195);
-    color: black;
-    border: 0px;
-    padding: 3px;
-    border-radius: 3px;
-}
-
-.user-comment{
-    
-    padding: 10px;
+.main-img{
+    height: 319px;
+    width: 612px;
 }
